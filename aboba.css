@@ -1,0 +1,102 @@
+body{
+ position: absolute;
+ background-color: #f2f2f2;
+}
+.cursor{
+  CURSOR: pointer;
+  color: green;
+}
+
+.li-o{
+ type: circle;
+}
+
+.df{
+  border: 1px solid orange;
+}
+
+.tv{
+ border: 5px double red;
+}
+
+.row{
+position: relative;
+padding: 6px;
+}
+
+input{
+ color: #555;
+ border-radius: .1em;
+}
+
+input:focus{
+  box-shadow: 0 0 0 4px rgba(149,197,243,.9);
+  border: 1px solid #71aaf8;
+}
+
+label{
+color:#999;
+transition: all .1s ease-in-out;
+}
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+}
+
+.catalog {
+    width: 870px;
+    height: 250px; 
+    background-color: lightblue;
+}
+
+.product {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+    margin: 40px 0px 40px 80px;
+    background-color: bisque;
+}
+
+.principles {
+    border-top: 5px solid navy;
+    border-bottom: 5px solid navy;
+    margin: 30px 60px 30px 30px; 
+    height: 150px;
+    padding: 30px;
+    text-align: center;
+}
+
+.principle {
+    float: left;
+    width: 120px;
+    margin-left: 100px;
+}
+
+.div1{
+    padding: 30px;
+    margin-left: 150px;
+}
+.slogan_img{
+    float: left;
+    padding: 10px;
+    border: 5px solid orange;
+    border-radius: 50%;
+}
+
+.slogan_text{
+    float: left;
+    color: mediumblue;
+    margin: 20px;
+}
+
+.olivka{
+  margin-top: 80px;
+}
