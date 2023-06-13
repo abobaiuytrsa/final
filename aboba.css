@@ -88,7 +88,7 @@ a {
     float: left;
     padding: 10px;
     border: 5px solid orange;
-    border-radius: 50%;
+     border-radius: 50%;
 }
 
 .slogan_text{
@@ -103,4 +103,9 @@ a {
 
 .dddd{
  border-radius: 50%; 
+}
+
+img{
+max-width: 50px;
+max-height: 50px;
 }
